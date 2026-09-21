@@ -277,4 +277,4 @@ Kullanıcılar ada veya kimliğe göre aranır, role göre filtrelenir; rol değ
 
 ## Lisans
 
-Depoda lisans dosyası bulunmamaktadır. Ders projesi — tüm hakları yazarlarına aittir.
+[MIT Lisansı](LICENSE) ile yayımlanmıştır. Bu bir üniversite ders projesidir; mock veriler tamamen kurgusaldır ve prototip gerçek hasta bilgisiyle kullanılmaya uygun değildir.

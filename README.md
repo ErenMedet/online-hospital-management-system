@@ -277,4 +277,4 @@ Search users by name or ID, filter by role, and change a role through `personelR
 
 ## License
 
-No license file is included. Coursework — all rights reserved by the authors.
+Released under the [MIT License](LICENSE). This is university coursework; the mock data is entirely fictional and the prototype is not fit for handling real patient information.
