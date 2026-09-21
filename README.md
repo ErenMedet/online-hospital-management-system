@@ -1,6 +1,6 @@
 # MediCare — Hospital Management System
 
-> 🇹🇷 **Türkçe dokümantasyon: [README.tr.md](README.tr.md)**
+**English** · [Türkçe](README.tr.md)
 
 A role-based hospital management web application built with React 19, React Router v7, Tailwind CSS v4 and Vite. Four user roles — **Patient**, **Doctor**, **Nurse** and **Front Desk** — each get their own navigation, permissions and workspace.
 

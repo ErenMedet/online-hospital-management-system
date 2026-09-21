@@ -1,6 +1,6 @@
 # MediCare — Hastane Yönetim Sistemi
 
-> 🇬🇧 **English documentation: [README.md](README.md)**
+[English](README.md) · **Türkçe**
 
 React 19, React Router v7, Tailwind CSS v4 ve Vite ile geliştirilmiş, rol tabanlı bir hastane yönetim uygulaması. Dört kullanıcı rolü — **Hasta**, **Doktor**, **Hemşire** ve **Ön Büro** — kendi menüsüne, yetkilerine ve çalışma alanına sahiptir.
 
